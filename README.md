@@ -1,3 +1,3 @@
-# TRIGEM_GGJ2020
+Party's Over!
 
 Developed with Unreal Engine 4
