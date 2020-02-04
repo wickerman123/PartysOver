@@ -75,4 +75,4 @@ Music from https://filmmusic.io
 License: CC BY (http://creativecommons.org/licenses/by/4.0/)
 
 
-All other audio recorded by team memvers during the Game Jam
+All other audio recorded by team members during the Game Jam
